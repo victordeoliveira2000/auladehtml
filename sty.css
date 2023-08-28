@@ -1,27 +1,39 @@
 *{
-    margin: 0;
+    margin: 100;
     padding: 0%;
     box-sizing: border-box;
-    font-family: fantasy;
-    display:;
+    font-family:'Times New Roman', Times, serif;
+    
 }
 
 .d1{
-    margin: 0;
-    padding: 0;
+    margin: 300;
+    padding: 300;
     box-sizing: border-box;
     font-family: 'Lucida Sans';
-}
-.d2{
+    background-color: rgb(255, 0, 170);
     width: 300px;
     height: 300px;
-    display: inline;
-    color: blue;
+    
+}
+.d2{
+    
+    margin: 300;
+    padding: 300;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans';
+    background-color: rgb(157, 255, 0);
+    width: 300px;
+    height: 300px;
 }
 
 .d3{
+    
+    margin: 300;
+    padding: 300;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans';
+    background-color: rgb(0, 4, 255);
     width: 300px;
     height: 300px;
-    display: inline-block;
-    color: blue;
 }
